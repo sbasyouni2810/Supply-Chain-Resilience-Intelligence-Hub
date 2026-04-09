@@ -26,6 +26,6 @@ Shipping Modes: Standard Class might be cheaper, but the correlation with late d
 <img width="1288" height="727" alt="Screenshot 2026-04-09 150430" src="https://github.com/user-attachments/assets/bff11adc-a791-491d-ae5e-a603933d2239" />
 
 Tech Stack:
-Tool: Power BI Desktop.
+Tool: Power BI Desktop, SQL (MySQL), Python (Jupyter Notebook).
 
 Features: DAX measures for Profit & Loss, Power Query, AI Visuals (Key Influencers, Decomposition Tree).
