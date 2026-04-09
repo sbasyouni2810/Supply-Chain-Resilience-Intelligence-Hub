@@ -1,6 +1,8 @@
 Supply Chain Analytics: Solving the Late Delivery Crisis 📦
+
 Why I built this?
 While looking at this dataset, one number caught my eye: 55.42%. That’s the rate of late deliveries. In any real-world business, this is a disaster. I wanted to build more than just a "pretty dashboard"; I wanted to create a tool that actually tells a manager why this is happening and how much it’s costing the company.
+
 <img width="1293" height="724" alt="Screenshot 2026-04-09 150415" src="https://github.com/user-attachments/assets/f3231ce4-f3b9-4513-a086-48d40ade9e26" />
  
 The Problem
